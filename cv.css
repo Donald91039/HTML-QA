@@ -1,0 +1,21 @@
+h1{
+    text-align: center ;
+    text-shadow: 3px 3px green;
+}
+
+div{
+    margin-left: 1%;
+    margin-right: 1%;
+    background-color: aqua;
+}
+
+#contact{
+    text-align: center;
+    font-size: x-large;
+    color:red;
+}
+
+p::first-letter{
+    font-size: x-large;
+    color: red;
+}
