@@ -1,0 +1,30 @@
+body {
+        background-color: lightblue;
+     }
+h1   {
+        color: magenta; 
+        }
+
+p::first-letter{
+        font-size: x-large;
+        color: red;
+    }
+
+/* unvisited link */
+a:link {
+      color: blue;
+      }
+/* visited link */
+a:visited {
+      color:black;
+      }
+/* mouse over link */
+a:hover {
+      color: red;
+      }
+
+
+ #test{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+}
